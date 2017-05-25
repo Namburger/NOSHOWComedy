@@ -1,0 +1,50 @@
+body{
+  background-image: url("images/background.jpg");
+}
+
+.top{
+  margin-top: 100px;
+}
+
+.container{
+  color:white;
+}
+
+.reviewers{
+  color:white;
+}
+
+.item{
+  width: 800px;
+  height: auto;
+  margin-left: 180px;
+}
+
+.event{
+   width: 650px;
+   height: auto;
+   margin-left: 230px;
+}
+
+.product{
+  width: 400px;
+  height: auto;
+}
+
+#ig{
+  width: 60px;
+  height: auto;
+  margin-left: 500px;
+
+}
+#social{
+  width: 60px;
+  height: auto;
+  margin-left: 0px;
+
+}
+
+.panel-default > .panel-heading {
+  background-color: #3E4551;
+  border-color: #ddd;
+}
