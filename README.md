@@ -35,3 +35,4 @@
 * 3 - Change the back ground with No SHOW LOGO
 * 4 - Work on google calendar for a better look as well as creating a new Google calendar for unauthenticated users 
 * 5 - Changes things on the page based on feedbacks from the NO SHOW Team
+* 6 - Make the webpage responsive on Mobile Devices
