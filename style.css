@@ -48,3 +48,8 @@ body{
   background-color: #3E4551;
   border-color: #ddd;
 }
+
+#menu {
+    float: right;
+    margin-top: 0px;
+}
